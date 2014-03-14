@@ -1,0 +1,10 @@
+name: RegionTeleport
+version: 1.1.0
+main: br.AtomGamers.WRP.RegionTeleport
+author: AtomGamers
+description: A Teleport region plugin.
+website: www.atomgamers.com
+commands:
+  regiontp:
+    description: Comando do Plugin.
+    aliases: [rtp, rteleport, regionteleport]
